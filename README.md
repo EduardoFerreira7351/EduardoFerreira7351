@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente no 1° semestre da faculdade
+- 📚 Atualmente no 2° semestre da faculdade
 - 😜 Aprendendo Python e HTML
 
 <div align="center">
